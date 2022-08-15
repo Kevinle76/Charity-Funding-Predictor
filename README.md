@@ -34,6 +34,22 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 ### Step 3: Optimize the Model
 
+![image](https://user-images.githubusercontent.com/100891182/184696002-659f1c82-0a65-4269-b2c6-3def9cbb5d99.png)
+
+
+![image](https://user-images.githubusercontent.com/100891182/184696067-d7b3eaea-7e11-408b-a07e-6fe18bc05be6.png)
+
+
+![image](https://user-images.githubusercontent.com/100891182/184696146-09c27fed-0a2d-4464-9669-5b2d31555e89.png)
+
+
+![image](https://user-images.githubusercontent.com/100891182/184696198-b318bd68-e3eb-435f-9b48-a5ddfcd2d710.png)
+
+
+![image](https://user-images.githubusercontent.com/100891182/184696233-5be61ef9-5020-4da6-8116-a5be6fcbbc54.png)
+
+
+
 
 
 
