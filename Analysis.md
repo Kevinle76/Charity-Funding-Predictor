@@ -31,11 +31,11 @@ This process utilizes two different strategies:
 
   3.1 Data Preprocessing:
   
-     * What variable(s) are the target(s) for your model?   
+ * What variable(s) are the target(s) for your model?   
     
-    * What variable(s) are the features for your model?  
+ * What variable(s) are the features for your model?  
     
-    * What variable(s) should be removed from the input data because they are neither targets nor features?
+ * What variable(s) should be removed from the input data because they are neither targets nor features?
     
   
 The dataset removed any irrelevant information; therefore, EIN and NAME were dropped from the 
