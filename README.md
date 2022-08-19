@@ -32,6 +32,13 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 
 
+![image](https://user-images.githubusercontent.com/100891182/185620077-8c687a82-8f07-4085-80c6-601ae5a237af.png)
+
+
+![image](https://user-images.githubusercontent.com/100891182/185620098-5d3f4561-da23-4461-a67b-2cd7ae302573.png)
+
+
+
 ### Step 3: Optimize the Model
 
 ![image](https://user-images.githubusercontent.com/100891182/184696002-659f1c82-0a65-4269-b2c6-3def9cbb5d99.png)
