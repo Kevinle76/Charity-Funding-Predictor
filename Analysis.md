@@ -9,6 +9,11 @@ This process utilizes two different strategies:
 
 - an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras tuner (79% accuracy)
 
+
+        ![image](https://user-images.githubusercontent.com/100891182/185626503-ab7eb98e-6c65-4afe-8e90-7b655321ce38.png)
+
+         ![image](https://user-images.githubusercontent.com/100891182/185626522-56db71f7-c5a9-4893-8b39-b92d961207d3.png)
+
 ## 2. Baseline Graphs:
         
     ![image](https://user-images.githubusercontent.com/100891182/185626503-ab7eb98e-6c65-4afe-8e90-7b655321ce38.png)
