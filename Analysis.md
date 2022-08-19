@@ -11,11 +11,19 @@ This process utilizes two different strategies:
 
 ## 2. Baseline:
 
-![image](https://user-images.githubusercontent.com/100891182/185627113-e1f10bdf-726d-403a-82e6-401e9e1323e8.png)
+     2.1 Baseline
 
-![image](https://user-images.githubusercontent.com/100891182/185627134-b9279c8c-5fa3-49db-afb6-4a9dc834436f.png)
+        ![image](https://user-images.githubusercontent.com/100891182/185627113-e1f10bdf-726d-403a-82e6-401e9e1323e8.png)
 
-        
+        ![image](https://user-images.githubusercontent.com/100891182/185627134-b9279c8c-5fa3-49db-afb6-4a9dc834436f.png)
+
+     2.2 Ooptimization:
+     
+     ![image](https://user-images.githubusercontent.com/100891182/185627391-1d7826b6-cfc0-4186-83e9-6566b83d7227.png)
+     
+     
+     ![image](https://user-images.githubusercontent.com/100891182/185627407-1086ffe9-d3ab-4101-826b-63b739425de1.png)
+
 
 
 ## 3. Results:
