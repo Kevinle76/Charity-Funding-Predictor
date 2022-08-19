@@ -71,7 +71,20 @@ under the desired 75%
 ![image](https://user-images.githubusercontent.com/100891182/185630080-17cfaa23-40d5-43f7-80e1-23c7f257dc64.png)
 
 
+     3.3 Optimization:
+     
+The second attempt added ‘NAME’ back into the dataset, this time I achieved 79% which was 4% over 
+target. A total of 3,298 params. 
 
+
+![image](https://user-images.githubusercontent.com/100891182/185631025-e808d378-20bf-4f96-a77a-5bae2dc04984.png)
+
+
+Deep learning models should have multiple layers, since it is machined based it teaches a 
+computer to filter inputs through the layers to learn how to predict and classify information.
+
+
+![image](https://user-images.githubusercontent.com/100891182/185631165-a6dbbb4b-0653-45c4-8a8f-7ccf057d2a96.png)
 
 
 
