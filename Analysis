@@ -7,9 +7,16 @@ This process utilizes two different strategies:
 
 - a baseline, “manual” attempt in which the hyperparameters of the neural network are predefined and fitted onto the data (73% accuracy) and
 
-- an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras tuner (74% accuracy)
+- an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras tuner (79% accuracy)
 
 ## 2. Baseline Graphs:
+    2.1 Baseline
+    
+    
+    
+    
+    2.2 Optimization:
+
 
 
 ## 3. Results:
