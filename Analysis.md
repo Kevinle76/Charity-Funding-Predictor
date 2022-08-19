@@ -11,7 +11,7 @@ This process utilizes two different strategies:
 
 ## 2. Graphs:
 
-     2.1 Baseline
+   2.1 Baseline
 
   ![image](https://user-images.githubusercontent.com/100891182/185627113-e1f10bdf-726d-403a-82e6-401e9e1323e8.png)
 
@@ -71,7 +71,7 @@ under the desired 75%
 ![image](https://user-images.githubusercontent.com/100891182/185630080-17cfaa23-40d5-43f7-80e1-23c7f257dc64.png)
 
 
-     3.3 Optimization:
+   3.3 Optimization:
      
 The second attempt added ‘NAME’ back into the dataset, this time I achieved 79% which was 4% over 
 target. A total of 3,298 params. 
