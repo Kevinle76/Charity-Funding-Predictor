@@ -49,13 +49,13 @@ checked to see if binning was successful. Categorical variables were encoded by 
   
        
     
-    3.2 Compiling, Training, and Evaluating the Model:
+  3.2 Compiling, Training, and Evaluating the Model:
     
-    * How many neurons, layers, and activation functions did you select for your neural network model, and why?
+ * How many neurons, layers, and activation functions did you select for your neural network model, and why?
     
-    * Were you able to achieve the target model performance?
+ * Were you able to achieve the target model performance?
     
-    * What steps did you take in your attempts to increase model performance?
+ * What steps did you take in your attempts to increase model performance?
     
 Neural Network was applied on each model multiple layers, three in total. The number of features 
 dictated the number of hidden nodes. 
