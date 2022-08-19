@@ -7,7 +7,7 @@ This process utilizes two different strategies:
 
 - a baseline, “manual” attempt in which the hyperparameters of the neural network are predefined and fitted onto the data (72.9% accuracy) and
 
-- an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras (79% accuracy)
+- an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras (78.6% accuracy)
 
 ## 2. Graphs:
 
@@ -80,7 +80,7 @@ under the desired 75%
    3.3 Optimization and recommendation:
    
      
-The second attempt added ‘NAME’ back into the dataset, this time I achieved 79% which was 4% over 
+The second attempt added ‘NAME’ back into the dataset, this time I achieved 78.6% which was 4% over 
 target. A total of 3,298 params. 
 
 
