@@ -38,14 +38,18 @@ This process utilizes two different strategies:
  * What variable(s) should be removed from the input data because they are neither targets nor features?
     
   
-The dataset removed any irrelevant information; therefore, EIN and NAME were dropped from the 
+The dataset removed any irrelevant information. So, EIN and NAME were dropped from the 
 model. The remaining columns were considered features for the model. Although NAME was added 
-back in the second test. CLASSIFICATION and APPLICATION_TYPE was replaced with ‘Other due to high 
-fluctuation. The data was split into training and testing sets of data. The target variable for the model is 
-“IS_SUCCESSFUL” and is verified by the value, 1 was considered yes and 0 was no. APPLICATION data 
-was analyzed, and CLASSIFICATION’s value was used for binning. Each unique value used several data 
-point as a cutoff point to bin “rare” categorical variables together in a new value, ‘Other’. Afterwards 
-checked to see if binning was successful. Categorical variables were encoded by ‘pd.get_dummies().
+back in the second test. CLASSIFICATION and APPLICATION_TYPE was replaced by Other due to high 
+fluctuation. 
+
+The data was split into training and testing sets of data. The target variable for the model is 
+“IS_SUCCESSFUL” and is verified by the value, 1 was considered yes and 0 was no.
+
+APPLICATION data was analyzed, and CLASSIFICATION’s value was used for binning. Each unique value used several data 
+point as a cutoff point to bin “rare” categorical variables together in a new value, ‘Other’. 
+
+Afterwards checked to see if binning was successful. Categorical variables were encoded by ‘pd.get_dummies().
   
        
     
@@ -64,7 +68,6 @@ dictated the number of hidden nodes.
 ![image](https://user-images.githubusercontent.com/100891182/185629908-3016ba44-d073-4b0d-85df-38f35bd42b44.png)
 
 
-
 A three-layer training model generated 477 parameters. The first attempt came close at 72.9% which was 
 under the desired 75%
 
@@ -74,7 +77,7 @@ under the desired 75%
 
 
 
-   3.3 Optimization:
+   3.3 Optimization and recommendation:
    
      
 The second attempt added ‘NAME’ back into the dataset, this time I achieved 79% which was 4% over 
