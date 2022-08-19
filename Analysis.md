@@ -60,7 +60,7 @@ Afterwards checked to see if binning was successful. Categorical variables were 
  * Were you able to achieve the target model performance?
     
  * What steps did you take in your attempts to increase model performance?
- * 
+ 
     
 Neural Network was applied on each model multiple layers, three in total. The number of features 
 dictated the number of hidden nodes. 
