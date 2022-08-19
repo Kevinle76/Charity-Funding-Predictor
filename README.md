@@ -35,7 +35,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 
 
 
-Model w/ opt - 0.7294 - 3 layers: 7, 14, 21 - activation='relu' - epochs=100
+Model without optimization - 0.7294 - 3 layers: 7, 14, 21 - activation='relu' - epochs=100
 
 
 ![image](https://user-images.githubusercontent.com/100891182/185620077-8c687a82-8f07-4085-80c6-601ae5a237af.png)
@@ -65,7 +65,7 @@ Model w/ optimization:
 
 
 
-Model w/ opt - 0.7864 - 3 layers: 7, 14, 21 - activation='relu' - epochs=100
+Model with optimization - 0.7864 - 3 layers: 7, 14, 21 - activation='relu' - epochs=100
 
 
 ![image](https://user-images.githubusercontent.com/100891182/185622150-87f94c4e-cd88-4f46-bb6c-adbe010c25f6.png)
