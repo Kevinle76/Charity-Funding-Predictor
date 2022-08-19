@@ -1,13 +1,13 @@
 ### Charity Funding Predictor Analysis
 ## 1. Overview:
 
-The non-profit foundation Alphabet Soup is interested in predicting which charity fundings end up being successful. Data containing more than 34,000 organizations previously funded by Alphabet Soup and their metadata is preprocessing and fitted into a deep learning neural network.
+The non-profit foundation Alphabet Soup is interested in predicting which charity fundings end up being successful. Data containing more than 34,200 organizations previously funded by Alphabet Soup and metadata is preprocessing and fitted into a deep learning neural network.
 
 This process utilizes two different strategies:
 
-- a baseline, “manual” attempt in which the hyperparameters of the neural network are predefined and fitted onto the data (73% accuracy) and
+- a baseline, “manual” attempt in which the hyperparameters of the neural network are predefined and fitted onto the data (72.9% accuracy) and
 
-- an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras tuner (79% accuracy)
+- an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras (79% accuracy)
 
 ## 2. Graphs:
 
