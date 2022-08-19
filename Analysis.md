@@ -19,10 +19,10 @@ This process utilizes two different strategies:
 
      2.2 Ooptimization:
      
-     ![image](https://user-images.githubusercontent.com/100891182/185627391-1d7826b6-cfc0-4186-83e9-6566b83d7227.png)
+ ![image](https://user-images.githubusercontent.com/100891182/185627391-1d7826b6-cfc0-4186-83e9-6566b83d7227.png)
      
      
-     ![image](https://user-images.githubusercontent.com/100891182/185627407-1086ffe9-d3ab-4101-826b-63b739425de1.png)
+![image](https://user-images.githubusercontent.com/100891182/185627407-1086ffe9-d3ab-4101-826b-63b739425de1.png)
 
 
 
