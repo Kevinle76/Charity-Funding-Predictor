@@ -17,7 +17,7 @@ This process utilizes two different strategies:
 
   ![image](https://user-images.githubusercontent.com/100891182/185627134-b9279c8c-5fa3-49db-afb6-4a9dc834436f.png)
 
-     2.2 Optimization:
+   2.2 Optimization:
      
  ![image](https://user-images.githubusercontent.com/100891182/185627391-1d7826b6-cfc0-4186-83e9-6566b83d7227.png)
      
@@ -56,11 +56,13 @@ checked to see if binning was successful. Categorical variables were encoded by 
  * Were you able to achieve the target model performance?
     
  * What steps did you take in your attempts to increase model performance?
+ * 
     
 Neural Network was applied on each model multiple layers, three in total. The number of features 
 dictated the number of hidden nodes. 
 
 ![image](https://user-images.githubusercontent.com/100891182/185629908-3016ba44-d073-4b0d-85df-38f35bd42b44.png)
+
 
 
 A three-layer training model generated 477 parameters. The first attempt came close at 72.9% which was 
@@ -71,7 +73,9 @@ under the desired 75%
 ![image](https://user-images.githubusercontent.com/100891182/185630080-17cfaa23-40d5-43f7-80e1-23c7f257dc64.png)
 
 
+
    3.3 Optimization:
+   
      
 The second attempt added ‘NAME’ back into the dataset, this time I achieved 79% which was 4% over 
 target. A total of 3,298 params. 
