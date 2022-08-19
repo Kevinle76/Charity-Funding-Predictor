@@ -66,7 +66,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 ![image](https://user-images.githubusercontent.com/100891182/185622177-436e9aa5-7f26-4d96-a2b1-7e5de04ca572.png)
 
 
-
+model w/ opt1 - 0.7383 - 3 layers: 80, 30, 10 - activation='relu' - epochs=1500 (less features)
 
 ### Step 4: Write a Report on the Neural Network Model
 
