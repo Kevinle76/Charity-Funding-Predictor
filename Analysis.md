@@ -5,9 +5,9 @@ The non-profit foundation Alphabet Soup is interested in predicting which charit
 
 This process utilizes two different strategies:
 
-- a baseline, “manual” attempt in which the hyperparameters of the neural network are predefined and fitted onto the data (72.9% accuracy) and
+- a baseline: manual attempt in which the hyperparameters of the neural network are predefined and fitted onto the data (72.9% accuracy) and
 
-- an optimized, “automatic” attempt in which the hyperparameters were systematically tested used keras (78.6% accuracy)
+- an optimized, automatic attempt in which the hyperparameters were systematically tested used keras (78.6% accuracy)
 
 ## 2. Graphs:
 
